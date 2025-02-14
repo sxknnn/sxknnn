@@ -15,7 +15,7 @@ I built games using Godot and Unity. A few were already uploaded on Itch. You ca
 ![SQL](https://img.shields.io/badge/SQL-025E8C?style=flat-square&logo=database&logoColor=white)
 
 <p align="right">
-  <img src="https://media.giphy.com/media/YOUR-GIF-ID/giphy.gif" width="250">
+  <img src="[https://media.giphy.com/media/YOUR-GIF-ID/giphy.gif](https://media.giphy.com/media/3oriO0OEd9QIDdllqo/giphy.gif)" width="250">
 </p>
 
 
