@@ -14,7 +14,7 @@ I built games using Godot and Unity. A few were already uploaded on Itch. You ca
 ![React](https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB)
 
 ## 📊 Most Used Languages:
-![Most Used Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=yourusername&layout=compact&theme=dark)
+![Most Used Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=sxknnn&layout=compact&theme=dark)
 
 ## 📈 GitHub Stats:
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=yourusername&show_icons=true&theme=dark)
