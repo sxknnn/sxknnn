@@ -1,6 +1,6 @@
 # Greetings to ALL Ladies and Gentlemen! 🎭 I'm Sujana Kabir
 
-Welcome to my GitHub profile! I'm an aspiring Software Developer passionate about game design. Let's connect and create something innovative together!
+Welcome to my GitHub profile! I'm an aspiring Software Developer passionate about game design. Let's connect and create something innovative together! 
 
 ## 📖 My indie games:  
 I built games using Godot and Unity. A few were already uploaded on Itch. You can check it out here-  [(https://ninazenik.itch.io/)]
@@ -14,9 +14,6 @@ I built games using Godot and Unity. A few were already uploaded on Itch. You ca
 ![Java](https://img.shields.io/badge/Java-007396?style=flat-square&logo=java&logoColor=white)
 ![SQL](https://img.shields.io/badge/SQL-025E8C?style=flat-square&logo=database&logoColor=white)
 
-<p align="right">
-  <img src="[https://media.giphy.com/media/YOUR-GIF-ID/giphy.gif](https://media.giphy.com/media/3oriO0OEd9QIDdllqo/giphy.gif)" width="250">
-</p>
 
 
 
@@ -27,4 +24,4 @@ I built games using Godot and Unity. A few were already uploaded on Itch. You ca
 ## 📈 GitHub Stats:
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=sxknnn&show_icons=true&theme=dark)
 
-Lessgo
+
