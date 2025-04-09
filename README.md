@@ -22,6 +22,7 @@ I built games using Godot and Unity. A few were already uploaded on Itch. You ca
 ![Clerk](https://img.shields.io/badge/Clerk-F44A4A?style=flat-square&logo=clerk&logoColor=white)
 ![API](https://img.shields.io/badge/API-FF6C37?style=flat-square&logo=api&logoColor=white)
 ![Google Cloud](https://img.shields.io/badge/Google%20Cloud-4285F4?style=flat-square&logo=googlecloud&logoColor=white)
+![VBA](https://img.shields.io/badge/VBA-2C5591?style=flat-square&logo=microsoft&logoColor=white)
 
 
 
