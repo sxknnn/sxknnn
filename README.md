@@ -21,6 +21,6 @@ I build games using **Godot** and **Unity**. You can check out my projects on It
 
 ## 📊 Statistics
 
-![Most Used Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=sxknnn&layout=compact&theme=dark)
+![Most Used Languages](https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=sxknnn&layout=compact&theme=dark)
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=sxknnn&show_icons=true&theme=dark)
+![GitHub Stats](https://github-readme-stats-eight-theta.vercel.app/api?username=sxknnn&show_icons=true&theme=dark)
