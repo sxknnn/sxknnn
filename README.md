@@ -1,4 +1,4 @@
-# Greetings to ALL Ladies and Gentlemen! 🎭 I'm Sujana Kabir <img src="https://giphy.com/gifs/sillykittiesco-work-working-silly-cat-OS9R41QuUqjnwMcqYI" width="35">
+# Greetings to ALL Ladies and Gentlemen! 🎭 I'm Sujana Kabir <img src="https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExdG5mZmZvMTNjNmN5MnYwYXc0Z2NleG53eDU2Y3JvNHRxbDMxendwNiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/OS9R41QuUqjnwMcqYI/giphy.gif" width="35">
 
 Welcome to my GitHub profile! I'm an aspiring **Software Developer** passionate about game design. Let's connect and create something innovative together! 
 
